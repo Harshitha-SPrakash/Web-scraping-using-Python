@@ -4,7 +4,7 @@ ________________________________________
 ## Table of Contents  
 -> [Introduction](#Introduction)        
 -> [Problem Definition](#problem-definition)     
--> [Benefits](#benifits)            
+-> [Benifits](#benifits)            
 -> [Conclusion](#conclusion)
 _______________________________________
 # Introduction
