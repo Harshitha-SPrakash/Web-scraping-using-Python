@@ -3,7 +3,7 @@ A web-scraping project using requests library of Python.
 ________________________________________
 ## Table of Contents  
 -> [Introduction](#Introduction)        
--> [Problem Definition](#problemdefenition)     
+-> [Problem Definition](#problem-definition)     
 -> [Benefits](#benifits)            
 -> [Conclusion](#conclusion)
 _______________________________________
