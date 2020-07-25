@@ -24,13 +24,13 @@ Many a times we are provided with excess and unnecessary data when we browse for
 
 The advantages of this project are as listed below:
 
-• Inexpensive – Web scraping services provide an essential service at a low cost or no cost. It is the weather data that is collected from weather forecast stations and analyzed to return only desired data.
+• **Inexpensive** – Web scraping services provide an essential service at a low cost or no cost. It is the weather data that is collected from weather forecast stations and analyzed to return only desired data.
 
-• Accuracy – The web scraping services are not only fast, they are accurate too. Simple errors in data extraction can cause wrong display of information. Accurate extraction of current temperature, wind speed, etc is very important.
+• **Accuracy** – The web scraping services are not only fast, they are accurate too. Simple errors in data extraction can cause wrong display of information. Accurate extraction of current temperature, wind speed, etc is very important.
 
-• Range of cities – This project offers 200,000 cities for the user to choose from, therefore it can be employed in most of the cities across the world. Also it displays an error message if a redundant city name is entered by the user. 
+• **Range of cities** – This project offers 200,000 cities for the user to choose from, therefore it can be employed in most of the cities across the world. Also it displays an error message if a redundant city name is entered by the user. 
 
-• Time Saving – The main objective of this project itself is to save time. The user need not waste time searching for the necessary data, we make it available in the format that is easy for the user to apprehend. 
+• **Time Saving** – The main objective of this project itself is to save time. The user need not waste time searching for the necessary data, we make it available in the format that is easy for the user to apprehend. 
 _______________________________________________
 # Conclusion
 As a solution to the above defined problem statement, we have successfully implemented web scraping using Python programming language. The program is designed to search and return only the relevant weather forecast data to the user, which comprises of- city temperature, wind speed, description & weather. 
